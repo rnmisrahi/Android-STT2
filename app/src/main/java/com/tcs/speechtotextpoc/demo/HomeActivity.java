@@ -92,7 +92,8 @@ public class HomeActivity extends AppCompatActivity implements ConversionCallaba
 
     @Override
     public void onCompletion() {
-        //Here we may want to call the callback again
+        //Here we may want to call the callback again.
+//        Let's call 3 times as a test
 //        Toast.makeText(this, "Done ", Toast.LENGTH_SHORT).show();
     }
 
