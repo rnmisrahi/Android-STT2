@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml
+		INJECTED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml
+		INJECTED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml
+		INJECTED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.INTERNET
+ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\Ruben Misrahi\.android\build-cache\cdaa24cd0ba4301ada18e83fc09b1f35c354448f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ruben Misrahi\.android\build-cache\919b5d9233bc23a494ad281b572892151d89e316\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ruben Misrahi\.android\build-cache\8c5df6ae76fcda227878f17eccf86aadb2d22dad\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ruben Misrahi\.android\build-cache\8069db5b04c214201e786107b67fba1a5448e4c2\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ruben Misrahi\.android\build-cache\9f16a3079e39138ee9a5c121433073e11f5d676f\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.tcs.speechtotextpoc.demo.HomeActivity
+ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:15:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.4.0] C:\Users\Ruben Misrahi\.android\build-cache\cdaa24cd0ba4301ada18e83fc09b1f35c354448f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Ruben Misrahi\.android\build-cache\91996ef6161f735c84fbf29d2d823722afa0b6d3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ruben Misrahi\.android\build-cache\919b5d9233bc23a494ad281b572892151d89e316\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Ruben Misrahi\.android\build-cache\8c5df6ae76fcda227878f17eccf86aadb2d22dad\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Ruben Misrahi\.android\build-cache\8069db5b04c214201e786107b67fba1a5448e4c2\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Ruben Misrahi\.android\build-cache\9f16a3079e39138ee9a5c121433073e11f5d676f\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Ruben Misrahi\.android\build-cache\919b5d9233bc23a494ad281b572892151d89e316\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml
+		INJECTED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml
+		INJECTED from S:\Talklet\200Apps\Android-STT\app\src\main\AndroidManifest.xml
